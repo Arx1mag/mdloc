@@ -1,0 +1,13 @@
+{
+ "name": "mdloc",
+ "description": "Локализация",
+ "author": "Leviafan",
+ "color" : "84 78 62",
+    "contact": "",
+    "blt_version" : 2.0,
+    "version" : "0.1",
+ "hooks": [
+        {"hook_id": "lib/managers/localizationmanager",
+  "script_path": "loc.lua"}
+ ]
+}
